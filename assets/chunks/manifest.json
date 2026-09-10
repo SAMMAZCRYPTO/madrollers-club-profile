@@ -1,0 +1,72 @@
+{
+  "page-01.jpg": {
+    "parts": 16,
+    "mime": "image/jpeg",
+    "bytes": 23906
+  },
+  "page-02.jpg": {
+    "parts": 16,
+    "mime": "image/jpeg",
+    "bytes": 23694
+  },
+  "page-03.jpg": {
+    "parts": 9,
+    "mime": "image/jpeg",
+    "bytes": 12076
+  },
+  "page-04.jpg": {
+    "parts": 24,
+    "mime": "image/jpeg",
+    "bytes": 35981
+  },
+  "page-05.jpg": {
+    "parts": 20,
+    "mime": "image/jpeg",
+    "bytes": 29409
+  },
+  "page-06.jpg": {
+    "parts": 16,
+    "mime": "image/jpeg",
+    "bytes": 23682
+  },
+  "page-07.jpg": {
+    "parts": 16,
+    "mime": "image/jpeg",
+    "bytes": 22819
+  },
+  "page-08.jpg": {
+    "parts": 18,
+    "mime": "image/jpeg",
+    "bytes": 25969
+  },
+  "page-09.jpg": {
+    "parts": 13,
+    "mime": "image/jpeg",
+    "bytes": 18825
+  },
+  "page-10.jpg": {
+    "parts": 17,
+    "mime": "image/jpeg",
+    "bytes": 24500
+  },
+  "page-11.jpg": {
+    "parts": 19,
+    "mime": "image/jpeg",
+    "bytes": 27695
+  },
+  "page-12.jpg": {
+    "parts": 16,
+    "mime": "image/jpeg",
+    "bytes": 22555
+  },
+  "page-13.jpg": {
+    "parts": 22,
+    "mime": "image/jpeg",
+    "bytes": 32763
+  },
+  "page-14.jpg": {
+    "parts": 22,
+    "mime": "image/jpeg",
+    "bytes": 32812
+  }
+}
